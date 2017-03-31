@@ -18,7 +18,7 @@
 extern "C" {
 #endif
 
-#define tensao_limiar 1200 // Valor de comparação das tens�es obtidas no sensor para classificação
+#define tensao_limiar 1200 // Valor de comparação das tensões obtidas no sensor para classificação
 #define tempo_seguranca 40 // Tempo mínimo (*125ms) para transição dia/noite
 
 int estado=1;		// Variável de estados da máquina
